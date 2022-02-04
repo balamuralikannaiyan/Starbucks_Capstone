@@ -20,4 +20,4 @@ There are three datasets provided and each dataset is cleaned and preprocessed f
 **File Descriptions**
 
 **Results**<br>
-The detailed study, analysis and results of the analysis are summarized here
+The detailed study, analysis and results of the analysis are summarized [here](https://medium.com/@balamurali91/starbucks-capstone-project-cba34279466c).
